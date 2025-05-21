@@ -1,0 +1,82 @@
+[
+    {
+        "name": "John Doe",
+        "age": 24,
+        "email": "john.doe@example.com",
+        "language": "JavaScript",
+        "framework": "React",
+        "image": "https://randomuser.me/api/portraits/men/1.jpg",
+        "experience": 2,
+        "cpi": 8.5
+    },
+    {
+        "name": "Jane Smith",
+        "age": 28,
+        "email": "jane.smith@example.com",
+        "language": "Python",
+        "framework": "Django",
+        "image": "https://randomuser.me/api/portraits/women/1.jpg",
+        "experience": 3,
+        "cpi": 9.0
+    },
+    {
+        "name": "Alice Johnson",
+        "age": 22,
+        "email": "alice.johnson@example.com",
+        "language": "JavaScript",
+        "framework": "Vue.js",
+        "image": "https://randomuser.me/api/portraits/women/2.jpg",
+        "experience": 1,
+        "cpi": 8.0
+    },
+    {
+        "name": "Bob Brown",
+        "age": 30,
+        "email": "bob.brown@example.com",
+        "language": "JavaScript",
+        "framework": "Node.js",
+        "image": "https://randomuser.me/api/portraits/men/2.jpg",
+        "experience": 4,
+        "cpi": 9.5
+    },
+    {
+        "name": "Charlie Davis",
+        "age": 26,
+        "email": "charlie.davis@example.com",
+        "language": "JavaScript",
+        "framework": "Angular",
+        "image": "https://randomuser.me/api/portraits/men/3.jpg",
+        "experience": 5,
+        "cpi": 9.2
+    },
+    {
+        "name": "Diana Prince",
+        "age": 29,
+        "email": "diana.prince@example.com",
+        "language": "JavaScript",
+        "framework": "React",
+        "image": "https://randomuser.me/api/portraits/women/3.jpg",
+        "experience": 4,
+        "cpi": 9.0
+    },
+    {
+        "name": "Ethan Hunt",
+        "age": 35,
+        "email": "ethan.hunt@example.com",
+        "language": "JavaScript",
+        "framework": "Node.js",
+        "image": "https://randomuser.me/api/portraits/men/4.jpg",
+        "experience": 6,
+        "cpi": 9.8
+    },
+    {
+        "name": "Fiona Apple",
+        "age": 27,
+        "email": "fiona.apple@example.com",
+        "language": "JavaScript",
+        "framework": "React",
+        "image": "https://randomuser.me/api/portraits/women/4.jpg",
+        "experience": 3,
+        "cpi": 8.7
+    }
+]
